@@ -1,6 +1,6 @@
-# pptx
+# pptxjs
 
-Pptx rendering library
+Pptx rendering library for JavaScript apps
 
 ## License
 
